@@ -6,7 +6,7 @@ export function Hero() {
   return (
     <section className="hero" id="top">
       <div className="inner">
-        <p className="eyebrow">Available for SDET roles</p>
+        <p className="eyebrow">Looking for SDET roles</p>
         <h1>{name}</h1>
         <p className="hero-title">{title}</p>
         <p className="hero-contact">

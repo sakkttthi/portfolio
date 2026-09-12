@@ -23,8 +23,8 @@ export const resume = {
       category: 'Automation Frameworks',
       items: [
         'Playwright',
-        'Page Object Model (POM)',
-        'BDD',
+        'Page Object Model',
+        'Behavior Driven Framework',
         'Data Driven Framework',
       ],
     },
