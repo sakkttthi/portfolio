@@ -11,7 +11,7 @@ export const resume = {
     githubLabel: 'github.com/sakkttthi',
     githubHref: 'https://github.com/sakkttthi',
   },
-  resumePdf: '/Sakthivel_Nathan_Automation_Tester.pdf',
+  resumePdf: 'Sakthivel_Nathan_Automation_Tester.pdf',
   summary:
     'SDET with 4+ years of experience building scalable UI automation frameworks using Playwright and TypeScript. Designed automation solutions for Business Process Automation platforms, reducing flaky tests through custom locator strategies and JSON-driven workflow generation. Experienced in AI testing using DeepEval, CI/CD integration, and improving automation reliability for rapidly evolving applications.',
   skillGroups: [

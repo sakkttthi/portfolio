@@ -238,6 +238,11 @@ button:focus-visible {
   border-color: transparent;
 }
 
+.section,
+.hero {
+  scroll-margin-top: calc(var(--header-h) + 12px);
+}
+
 .section {
   padding: 64px 0;
 }
