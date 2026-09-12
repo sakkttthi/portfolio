@@ -24,7 +24,7 @@ Static output is written to `dist/`. Vite `base` is `./` so the site works on Gi
 
 Live site: **https://sakkttthi.github.io/portfolio/**
 
-A GitHub Actions workflow (`.github/workflows/deploy-pages.yml`) builds the app and publishes `dist/` to GitHub Pages on push to `main`. The repo Pages source is GitHub Actions.
+A GitHub Actions workflow (`.github/workflows/deploy-pages.yml`) builds the app and publishes `dist/` to GitHub Pages on push to `main`. Merge that change into `main` to publish — GitHub only allows the `github-pages` environment to deploy from `main`.
 
 ## Resume PDF
 
