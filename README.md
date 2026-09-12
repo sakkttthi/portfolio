@@ -18,7 +18,13 @@ npm run build
 npm run preview
 ```
 
-Static output is written to `dist/`. Vite `base` is `./` so the site can be hosted from GitHub Pages or any static host.
+Static output is written to `dist/`. Vite `base` is `./` so the site works on GitHub Pages.
+
+## GitHub Pages
+
+Live site: **https://sakkttthi.github.io/portfolio/**
+
+A GitHub Actions workflow (`.github/workflows/deploy-pages.yml`) builds the app and publishes `dist/` to GitHub Pages on push to `main`. The repo Pages source is GitHub Actions.
 
 ## Resume PDF
 
